@@ -1,0 +1,6 @@
+- days: Mon - Thu
+  open: 6:00 AM
+  close: 2:00 PM
+- days: Fri - Sat
+  open: 6:00 AM
+  close: 10:00 PM

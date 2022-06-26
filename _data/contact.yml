@@ -1,0 +1,10 @@
+location:
+  address: 18 Gloucester Ave, Berwick VIC 3806
+  google_maps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3142.6467634013584!2d145.34171802192202!3d-38.03201369893681!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad61988ec77b65d%3A0x5001a8ee55f1a777!2sCafe%20Revival!5e0!3m2!1sen!2sau!4v1656232647294!5m2!1sen!2sau
+  locale: en-AU
+
+socials:
+  - platform: Facebook
+    link: https://www.facebook.com/Revivalcafeandwinebar/
+  - platform: phone
+    link: tel:0419663582
